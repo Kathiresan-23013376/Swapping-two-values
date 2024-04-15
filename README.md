@@ -32,6 +32,8 @@ vijay=temp
 print("Swapped values are:",surya,vijay)
 ```
 #OUTPUT
+![Screenshot 2024-04-14 135814](https://github.com/Kathiresan-23013376/Swapping-two-values/assets/150008375/872c4dd1-bd8f-4b14-b9c8-01a3a90e635a)
+
 ![image](https://github.com/Kathiresan-23013376/Swapping-two-values/assets/150008375/eab68514-3792-4ad7-8c72-0714d053fe2b)
 
 ## RESULT:
